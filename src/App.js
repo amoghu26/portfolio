@@ -8,7 +8,7 @@ import Testimonials from "./components/Testimonials";
 
 export default function App() {
   return (
-    <main className = "text-gray-400 bg-blue-400 body-font">
+    <main className = "text-white-400 bg-blue-400 body-font">
       <Navbar />
       <About />
       <Projects />
