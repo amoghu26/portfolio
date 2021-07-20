@@ -11,7 +11,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed text-black">
             I am an 11th grader attending Monta Vista High School in 
-            Cupertino, California. I have experience working with many programming languages and technologies, which can be seen in the skills section of my portfolio.
+            Cupertino, California. I have experience working with many programming languages and technologies, which can be seen in the skills section of my portfolio. I am looking to apply these skills through activities such as internships or volunteer work. Please contact me if you have any potential opportunities for me.
           </p>
           <div className="flex justify-center">
             <a
