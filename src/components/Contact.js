@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=bay+area&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=cupertino,+california&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -71,7 +71,7 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Work With Me
           </h2>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+          <p className="leading-relaxed mb-5 text-gray-400">
             My location can be seen to the left. If you are interested in working with me and have an opportunity close by, please directly email me or fill out this contact form and I will get back to you ASAP.
           </p>
           <div className="relative mb-4">
