@@ -56,5 +56,5 @@ export const skills = [
   "JavaScript",
   "Node.js",
   "Machine Learning",
-  "ASK",
+  "Alexa Skills Kit",
 ];
