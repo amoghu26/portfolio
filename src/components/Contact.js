@@ -71,8 +71,8 @@ export default function Contact() {
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
             Work With Me
           </h2>
-          <p className="leading-relaxed mb-5 text-white">
-            My location can be seen to the left. If you are interested in working with me and have an opportunity close by, please fill out this contact form and I will get back to you ASAP.
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
+            My location can be seen to the left. If you are interested in working with me and have an opportunity close by, please directly email me or fill out this contact form and I will get back to you ASAP.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
