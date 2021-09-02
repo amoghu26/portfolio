@@ -49,7 +49,7 @@ export default function Contact() {
             Work With Me
           </h2>
           <p className="leading-relaxed mb-5 text-gray-400">
-            My location can be seen to the left. If you are interested in working with me and have a potential opportunity close by, please directly email or call me and I will get back to you ASAP.
+            My location can be seen on this map. If you are interested in working with me and have a potential opportunity close by, please directly email or call me and I will get back to you ASAP.
           </p>
           <div className="bg-blue-400 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -74,7 +74,6 @@ export default function Contact() {
               <p className="leading-relaxed text-black">408-660-0793</p>
             </div>
           </div>
-          
         </form>
       </div>
     </section>
