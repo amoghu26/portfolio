@@ -1,1 +1,1 @@
-Amogh Upadhyaya's Portfolio
+Amogh Upadhyaya's Project Portfolio
