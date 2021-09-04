@@ -12,7 +12,7 @@ export default function Projects() {
             My Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            My personal projects can be seen below. Click on them to be redirected to their respective code.
+            My personal projects can be seen below. Click on them to be redirected to their respective repositories.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
